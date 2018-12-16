@@ -1,0 +1,2 @@
+# Drop weapons on death
+
